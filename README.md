@@ -666,7 +666,28 @@
       </div>
     </div>
 
-   
+    <div class="section" id="s5">
+      <div class="section-title">github stats</div>
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-num" id="c1">0</div>
+          <div class="stat-label">Total Commits</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num" id="c2">0</div>
+          <div class="stat-label">Repositories</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num">Java</div>
+          <div class="stat-label">Top Language (58%)</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-num">9.46</div>
+          <div class="stat-label">CGPA / 10.0</div>
+        </div>
+      </div>
+      <div class="heatmap" id="heatmap"></div>
+    </div>
 
     <div class="section" id="s6">
       <div class="section-title">experience</div>
