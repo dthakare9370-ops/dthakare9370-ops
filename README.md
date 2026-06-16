@@ -59,14 +59,7 @@ const developer = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![AgroIntelX](https://github-readme-stats.vercel.app/api/pin/?username=dthakare9370-ops&repo=AgroIntelX&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=bc8cff&text_color=e6edf3&bg_color=161b22)](https://github.com/dthakare9370-ops)
-[![Educational PathFinder](https://github-readme-stats.vercel.app/api/pin/?username=dthakare9370-ops&repo=Educational-PathFinder&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=bc8cff&text_color=e6edf3&bg_color=161b22)](https://github.com/dthakare9370-ops)
-
-</div>
-
-### 🌾 AgroIntelX &nbsp;`🥈 IEEE ProTech 2026 · 2nd Rank`
+### 🌾 AgroIntelX &nbsp;&nbsp; `🥈 IEEE ProTech 2026 · 2nd Rank`
 > **IoT-based Smart Farming App** built with Flutter
 - 📡 Real-time crop monitoring using IoT sensors
 - 🤖 AI-powered plant disease detection & recommendations
@@ -76,7 +69,7 @@ const developer = {
 
 ---
 
-### 🎓 Educational PathFinder &nbsp;`🥇 Top Among 120+ Groups`
+### 🎓 Educational PathFinder &nbsp;&nbsp; `🥇 Top Among 120+ Groups`
 > **AI-powered career & education guidance platform**
 - 🧠 Deep Learning model for personalized path recommendations
 - 🎯 Helps students find ideal career & education paths
@@ -99,39 +92,20 @@ const developer = {
 
 <div align="center">
 
-**📱 Mobile Development**
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark" />
 
-**🌐 Web & Backend**
+### 💾 Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🤖 AI / ML & Languages
+<img src="https://skillicons.dev/icons?i=python,tensorflow,java,javascript&theme=dark" />
 
-**💾 Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**🤖 AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**🔧 Languages & Tools**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman,figma&theme=dark" />
 
 </div>
 
@@ -145,9 +119,7 @@ const developer = {
 &nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dthakare9370-ops&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=e6edf3&bg_color=0d1117&langs_count=8" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dthakare9370-ops&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=bc8cff&point=3fb950)](https://github.com/dthakare9370-ops)
 
